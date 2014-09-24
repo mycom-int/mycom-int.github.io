@@ -1,0 +1,606 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ins",
+				"instancesNumber"
+			],
+			[
+				"fo",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "UiGuidelines/index.html",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 255,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/GitHub/mycom-int.github.io/stylesheets/styles.css",
+		"/C/GitHub/mycom-int.github.io/index.html",
+		"/C/Users/rquillevere/Downloads/testLabtest9/ScorecardBad.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/ScorecardBad2.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/ScorecardBad3.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/IconViewBad3.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/IconViewBad2.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/Gauge.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/mapViewBad4.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/mapViewBad3.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/mapViewBad2.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/mapViewBad1.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/mapView.json",
+		"/C/Users/rquillevere/Downloads/testLabtest9/IconViewBad1.json",
+		"/C/Users/rquillevere/Google Drive/Dev/highchartsJso/one2team/highcharts/server/JSMAxis.java",
+		"/C/Users/rquillevere/Google Drive/Dev/highchartsJso/highcharts/client/model/JSOPlotOptions.java",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/1/mycom@dev-vm4/nova.interfaces.site.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/4/mycom@dev-vm4/nova.interfaces.site.properties",
+		"/C/mycom/src/kernel/04.02/wars/admin-rest/src/main/webapp/WEB-INF/web.xml",
+		"/C/mycom/src/kernel/04.02/wars/admin-rest/src/main/java/com/mycom/admin/rest/v1/UserResource.java",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/3/mycom@dev-vm4/nova.oauth.site.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/2/mycom@dev-vm4/nims.nbi.rest.site.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/5/mycom@dev-vm4/proptimaserver.properties",
+		"/C/Users/rquillevere/Downloads/60F6C868421616E62F6A546B8BEDC4D7.cache.js",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/6/mycom@dev-vm4/proptimaserver.site.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/7/mycom@dev-vm4/Proptima.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/8/mycom@dev-vm4/Proptima.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/9/mycom@dev-vm4/Proptima.site.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/10/mycom@dev-vm4/proptimaserver.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/11/mycom@dev-vm4/admin-rest.site.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/12/mycom@dev-vm4/Admin.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/13/mycom@dev-vm4/admin.ui.site.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/14/mycom@dev-vm4/nims.nbi.rest.site.properties",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/15/mycom@dev-vm4/Proptima.site.properties",
+		"/C/Users/rquillevere/Downloads/Gauge View JSON.json",
+		"/C/divers/bugIe9Integration/stack_ie9_devvm4_https.txt",
+		"/C/divers/bugIe9Integration/stack_ie9_localhost_http.txt",
+		"/C/Users/rquillevere/Downloads/homepageRQU.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/debug charts/playlistSlicer.json",
+		"/C/Users/rquillevere/Downloads/Map-of-Saudi-Arabia-b.svg",
+		"/C/Users/rquillevere/Downloads/Saudi-Arabia.svg",
+		"/C/Users/rquillevere/AppData/Local/Temp/db/nova.interfaces/bkp/suggestionsOnTarget/view/00ab74ed-75b5-4cbd-9e04-4e3a0c63ac30.json",
+		"/C/Users/rquillevere/Downloads/BlankMap-Africa.svg",
+		"/C/Users/rquillevere/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/4AZG5876/HomePage JSON.json",
+		"/C/divers/bugIe9Integration/stackie9.txt",
+		"/C/GitHub/testSimpleProject/gwthighcharts/pom.xml",
+		"/C/mycom/src/kernel/04.02/nova/interfaces/src/main/resources/nova.interfaces.properties",
+		"/C/GitHub/highcharts4gwtorg/highcharts4gwt/highcharts4gwt/.travis.yml",
+		"/C/GitHub/highcharts4gwtorg/highcharts4gwt/.gitignore",
+		"/C/GitHub/gwthighcharts/README.md",
+		"/C/Users/rquillevere/AppData/Local/Temp/100002407.json",
+		"/C/Users/rquillevere/AppData/Local/Temp/db/nova.interfaces/playlist/00bea624-f50e-44ae-93a5-957495ee43e8.json",
+		"/C/Users/rquillevere/AppData/Local/Temp/db/nova.interfaces/playlist/0e5afeab-9113-491f-bc08-89edf8bc7438.json",
+		"/C/Users/rquillevere/AppData/Local/Temp/db/nova.interfaces/playlist/01b7153e-f48a-48e5-b630-4baa1f946dd1.json",
+		"/C/Users/rquillevere/AppData/Local/Temp/db/nova.interfaces/playlist/1b3bd0b1-7758-4d5b-bd24-dda0447cd251.json",
+		"/C/Users/rquillevere/AppData/Local/Temp/db/nova.interfaces/playlist/1b36ccf0-e66e-4e51-9669-bc3f4c027d34.json",
+		"/C/Users/rquillevere/Google Drive/Dev/coct/app.js",
+		"/C/Users/rquillevere/Google Drive/Dev/coct/index.html",
+		"/C/Users/rquillevere/Google Drive/Dev/coct/style.css",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/0/mycom@dev-vm4/dc5f12ce-9fe2-4170-8527-7909939551da.json",
+		"/C/Users/rquillevere/AppData/Local/Temp/MobaXterm7.1/RemoteFiles/1/mycom@dev-vm4/1c36232e-40f9-4a02-9fc1-4b0734c961ec.json",
+		"/C/divers/debugBASE/DBFailed/view/0a5277c9-b361-4659-a5f3-0dbb8c3cc195.json",
+		"/C/divers/debugBASE/DBFailed/view/100001464.json",
+		"/C/divers/debugBASE/DBFailed/view/corruptedfileanalysis",
+		"/C/divers/debugBASE/uploadDashboardAgatha/test.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/debug charts/e0b70b3d-b84a-4931-9a8a-82784d49e782_pi_tslot_na.json",
+		"/C/divers/debugBASE/DBFailed/view/1cf30a5c-c67b-4369-a4d6-63b458c0ae63.json",
+		"/C/divers/debugBASE/DBFailed/view/7baf6a6c-38b6-4616-81ca-a99e44341d7c.json",
+		"/C/divers/debugBASE/DBFailed/view/8a375c8c-e6f1-45f2-b6dd-d934d78fa740.json",
+		"/C/divers/debugBASE/DBFailed/view/8d730189-be66-4d41-815f-575c1729c88c.json",
+		"/C/divers/debugBASE/DBFailed/view/28b153f1-0b16-4a2c-972a-ad714e6848a9.json",
+		"/C/divers/debugBASE/DBFailed/view/91b0ccff-b1a8-419a-bd78-dcecb53026e7.json",
+		"/C/divers/debugBASE/DBFailed/view/102c732e-8554-43a3-a6dc-1801864e6a63.json",
+		"/C/divers/debugBASE/DBFailed/view/5664a188-f1ff-4f6d-a4ca-4145b658dd07.json",
+		"/C/divers/debugBASE/DBFailed/view/672ef66f-d48a-413d-bbb4-880cde5213bf.json",
+		"/C/divers/debugBASE/DBFailed/view/405538f1-b092-4b82-a0c1-869a81e36fab.json",
+		"/C/divers/debugBASE/DBFailed/view/2010967e-7496-4e2c-b79b-7d7d48eee60a.json",
+		"/C/divers/debugBASE/DBFailed/view/862399d1-b3fe-41a8-b810-6e03922fee6b.json",
+		"/C/divers/debugBASE/DBFailed/view/9003040d-609e-4355-b774-71eec03f40b2.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/BASE/022cfeb4-4d4b-450d-b408-a4b994e3b521.json",
+		"/C/divers/debugBASE/nims.nbi.rest/mji/1129aae8-5008-440c-8259-0089bb6f6494.json",
+		"/C/divers/debugBASE/nims.nbi.rest/mji/59aa5da8-ed0c-482b-9618-7e807dbb56ca.json",
+		"/C/divers/debugBASE/nims.nbi.rest/mji/645079b3-9a52-4753-881e-3b1214c1d1f5.json",
+		"/C/divers/debugBASE/nims.nbi.rest/mji/fde79f0a-0946-4b2b-ade4-61f318c70d35.json",
+		"/C/divers/debugBASE/nims.nbi.rest/mjs/401d80dd-5c6a-44a5-98a6-f1003105a418.json",
+		"/C/divers/debugBASE/DiscoveryServiceImpl.java",
+		"/C/divers/debugBASE/db2/nims.nbi.rest/mji/e0ec242f-0b88-427a-b72b-b7d53bba76ad.json",
+		"/C/divers/debugBASE/db2/nims.nbi.rest/mjs/dc7b0f1a-1a49-4586-9da8-395088f4816c.json",
+		"/C/divers/debugBASE/Scenario KO logs 4",
+		"/C/divers/debugBASE/Compute KO",
+		"/C/divers/debugBASE/KO scenario perf",
+		"/C/divers/debugBASE/injectioncodejavamdds",
+		"/C/divers/debugBASE/nims.nbi.rest/mjs/85566fa4-a9f7-4351-b8d0-df9f21a0154e.json",
+		"/C/divers/debugBASE/401d80dd-5c6a-44a5-98a6-f1003105a418.json",
+		"/C/divers/debugBASE/120ab0b5-5a1d-4af3-b7ce-3252d66e0097.json",
+		"/C/divers/debugBASE/645079b3-9a52-4753-881e-3b1214c1d1f5.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/BASE/homePageBase.json",
+		"/C/divers/debugBASE/Compute OK",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/BASE/playlistBase.json",
+		"/C/divers/debugBASE/proptimaserver.201407290950.log.201408051559.21",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/homageTestGraph.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/graphIds.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/tslot_pi_na.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/na_pi_tslot.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/na_tslot_pi.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/pi_na_tslot.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/pi_tslot_na.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion1.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion2.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion3.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion4.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion5.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion6.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion7.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion8.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion9.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion10.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion11.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/suggestion_destination.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/tslot_na_pi.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/f881120e-fa39-4b27-928d-536a51fc9ec5.json",
+		"/C/Users/rquillevere/Google Drive/MYCOM/data/tslot_moi_pi.json",
+		"/C/mycom/src/kernel/04.02/forge/kernel-lineup/pom.xml",
+		"/C/mycom/src/kernel/04.02/forge/nova-parent/pom.xml",
+		"/C/mycom/src/kernel/04.02/nova/interfaces/pom.xml",
+		"/C/mycom/src/kernel/04.02/nova/pom.xml",
+		"/C/Users/rquillevere/Downloads/nims.nbi.rest.perf.log",
+		"/C/Users/rquillevere/Google Drive/Perso/Facture/notox/ConfirmationWeb.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\divers\\debugBASE\\DBFailed\\view",
+			"C:\\mycom\\src\\kernel\\04.02\\nova\\doc",
+			"C:\\Users\\rquillevere\\AppData\\Local\\Temp\\db\\nova.interfaces",
+			"<open files>,C:\\Users\\rquillevere\\AppData\\Local\\Temp\\db\\nova.interfaces\\playlist",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" <link rel=\"stylesheet\" href=\"stylesheets/styles.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/pygment_trac.css\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\">\n    <!--[if lt IE 9]>\n    <script src=\"//html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n    <![endif]-->",
+			"    <meta name=\"gwt:property\" content=\"locale=<%=request.getLocale()%>\">",
+			"tooltip",
+			"setCate",
+			"[com.mycom.sonar.stats.SonarStatsCli.main()] module;",
+			"INFO  com.mycom.sonar.stats.SonarStats - ",
+			"yAxis.plotLines.label",
+			"yAxis.stackLabels",
+			"chart.options3d.frame",
+			"returnType",
+			"option",
+			"1114659832",
+			";\n",
+			"suggestion",
+			"POST http://kpngbngpmtest:8080/nims.nbi.rest-4.2/api/v1/computation/measurementjobs/instances",
+			"MYCOMBASE",
+			"Entering",
+			"ERROR",
+			"ERRoR",
+			"jersey",
+			"          \n",
+			">\n",
+			"JSON_for_Maps",
+			"JSON_for_Icon",
+			"code",
+			"100001278",
+			"\"id\"",
+			"\"name\"",
+			"    ",
+			"\\r\\n    ",
+			"code",
+			"10",
+			"code",
+			"fullname",
+			"\"name\"",
+			"name",
+			"color",
+			"\"to\"",
+			"\"from\"",
+			"to",
+			"from",
+			"\"",
+			"      ",
+			"          ",
+			"\\n",
+			",\\n",
+			"\"name\": (.*),",
+			"\"value\":",
+			"\"value\": ",
+			"\"fullname\" :",
+			"\"path\": \"(.*)\"",
+			"\"name\": \"(.*)\",",
+			"\"name\": \"UT\",",
+			"\"name\": \"(.*),",
+			"\"name\":",
+			"3031",
+			"\\\"",
+			"\",",
+			"},",
+			"{",
+			"\"",
+			"Top devic",
+			"\\",
+			"appearStackItem",
+			"1.15",
+			"0.75",
+			"0.50",
+			"0.25",
+			"[],\n",
+			"moSlicerAvailable",
+			"%",
+			"Zoom   ",
+			"%",
+			"Zoom   ",
+			"%",
+			"Zoom   ",
+			"%",
+			"Zoom   ",
+			",",
+			"%",
+			"Zoom   ",
+			"authorities",
+			" />",
+			"<security:",
+			"<security:user name=\"",
+			"              ",
+			"\"id\"",
+			"ranges:",
+			"valueDisplayed",
+			"icon:",
+			"iconRanges",
+			"ranges",
+			"icon",
+			"2f2c3d5c-b396-4a63-aa8f-4defebfa2d39",
+			"    ",
+			"\"",
+			"\\\"",
+			"\"",
+			"    ",
+			"            ",
+			"\"",
+			" /*",
+			" */",
+			"}",
+			"{ ",
+			";",
+			"{",
+			" .",
+			"Caption",
+			" .",
+			"{ the outside of the dialog }",
+			".gwt-DialogBox",
+			"0",
+			";",
+			"0",
+			"\ncom.mycom.nova.reporter.client.view.header;0\ncom.mycom.nova.reporter.client.view.representation.chart;0\ncom.mycom.nova.admin.client.inject;0\ncom.mycom.nova.reporter.client.view.region;0\ncom.mycom.nova.admin.client.logic.history.place.mapper;0\ncom.mycom.nova.reporter.client.inject;0\ncom.mycom.nova.reporter.client.view.representation.table;0\ncom.mycom.nova.admin.client;0\ncom.mycom.nova.reporter.client.view.widget;0\ncom.mycom.nova.admin.client.logic.history.region;0\ncom.mycom.nova.reporter.client.view.homepage;0\ncom.mycom.nova.reporter.client;0\ncom.mycom.nova.reporter.client.view.root;0\ncom.mycom.nova.reporter.client.view.helptip;0\ncom.mycom.nova.admin.client.view.home;0\ncom.mycom.nova.reporter.client.view.region.separator;0\ncom.mycom.nova.admin.client.logic.history.place;0\ncom.mycom.nova.reporter.client.view.toolbar;0\ncom.mycom.nova.reporter.client.view.stack;1.7\ncom.mycom.nova.reporter.client.view.login;3.7\ncom.mycom.nova.reporter.client.view.analysis;3.8\ncom.mycom.nova.reporter.client.logic.presenter.toolbar;9.9\ncom.mycom.nova.reporter.client.model.table;17\ncom.mycom.nova.reporter.client.model.chart;27.3\ncom.mycom.nova.admin.client.logic.activity;50\ncom.mycom.nova.common.client.restclient.restyutils;55\ncom.mycom.nova.reporter.client.utils;57.1\ncom.mycom.nova.reporter.client.logic.event;64.6\ncom.mycom.nova.reporter.client.model.computation;67.7\ncom.mycom.nova.reporter.client.model.analysis;70.3\ncom.mycom.nova.reporter.client.logic.presenter;72.2\ncom.mycom.nova.reporter.client.logic.presenter.stack;77.5\ncom.mycom.nova.reporter.client.model.appproperties;77.8\ncom.mycom.nova.reporter.client.logic.history.place;81\ncom.mycom.nova.reporter.client.model.stack;82.9\ncom.mycom.nova.reporter.client.logic.activity;84\ncom.mycom.nova.common.client.logic.history.place;84.7\ncom.mycom.nova.reporter.client.logic.history.region.activityprovider;85.7\ncom.mycom.nova.common.client.logic.progress;85.7\ncom.mycom.nova.common.client.util;89.8\ncom.mycom.nova.reporter.client.logic.command;93.8\ncom.mycom.nova.reporter.client.logic.presenter.region;98\ncom.mycom.nova.reporter.client.logic.event.region;100\ncom.mycom.nova.reporter.client.model.security;100\ncom.mycom.nova.common.client.logic.history.region",
+			";",
+			",",
+			"        ",
+			"\"",
+			"\"name\": ",
+			"\"val\"",
+			"    },",
+			"    ",
+			"{\n",
+			"\"val\"",
+			"0,",
+			","
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"id",
+			"\"pathId\"",
+			"\"id\"",
+			"",
+			"id",
+			"50",
+			"id",
+			"name",
+			"\"code\"",
+			"code",
+			"\\\\\"color\\\\\"",
+			"\\\\\"to\\\\\"",
+			"\\\\\"from\\\\\"",
+			"\"to\"",
+			"\"from\"",
+			"\\\\\"",
+			"\\\"",
+			"",
+			",\"+",
+			"\"name\": \"$1\",",
+			"\"value\": 10",
+			"\"fullname\" : \"\",",
+			"\"value\":",
+			"\"name\": $1,\\n\\t\\t\\t\\t\"fullname\" :",
+			"\"name\": ($1),\\n\\t\\t\\t\\t\"fullname\" :",
+			"\"name\": \"\",\\n\\t\\t\\t\\t\"fullname\" :",
+			"\"name\": \"\";\\n\\t\\t\\t\\t\"fullname\" :",
+			"\"name\": \"\";\\n \\t \\t \\t \"fullname\" :",
+			"\"name\": \"\" \\n; \"fullname\" :",
+			"\"\\\"",
+			"\",\"+",
+			"\"},\"+",
+			"\"{\"+",
+			"\\\"",
+			"/",
+			"myanimation",
+			"1.10",
+			"0.55",
+			"0.35",
+			"0.20",
+			".",
+			"roles",
+			"",
+			"\"icon\"",
+			"\"ranges\":",
+			"\"ranges\"",
+			"\"valueDisplayed\"",
+			"\"icon\":",
+			"\"iconRanges\"",
+			"\"ranges\"",
+			"\"icon\"",
+			"",
+			"\\\"",
+			"\"",
+			"\\\"",
+			"",
+			"/n/*",
+			"*/",
+			"*/ }",
+			"{ /*",
+			"{ /*$",
+			"{ /*\\n",
+			";",
+			"@external ",
+			"0",
+			"        ",
+			"\"@class\":\"com.mycom.nova.domain.model.view.ViewRepositoryImpl$TabularViewPTO\"",
+			"\"@class\":\"com.mycom.nova.domain.model.view.ViewRepositoryImpl$ChartViewPTO\"",
+			"Chart",
+			"Tabular",
+			"",
+			"    ",
+			"viewIds",
+			"",
+			"."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\GitHub\\mycom-int.github.io"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "UiGuidelines/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

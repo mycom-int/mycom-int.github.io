@@ -1,0 +1,81 @@
+@font-face {
+	font-family: OpenSans-Regular;
+	src: url('../font/OpenSans-Regular.ttf');
+}
+
+@font-face {
+	font-family: OpenSans-Bold;
+	src: url('../font/OpenSans-Bold.ttf');
+}
+
+@font-face {
+	font-family: OpenSans-Light;
+	src: url('../font/OpenSans-Light.ttf');
+}
+
+@font-face {
+	font-family: OpenSans-Italic;
+	src: url('../font/OpenSans-Italic.ttf');
+}
+
+body {
+	font-family: OpenSans-Regular, verdana, sans-serif;
+	color: #000000;
+	background: url('../gfx/DarkBackground3.jpg');
+	background-size: cover;
+}
+
+header {
+	background-color: rgba(0,0,0,0.15);
+	color : white;
+	font-size: 14px;
+	padding: 5px 5px;
+}
+
+header span#trademark {
+	font-style: italic;
+}
+
+#lastupdate{
+	display: inline-block;
+	float: right;
+}
+
+nav {
+	margin-top: 25px;
+}
+
+li.item {
+	background-color: rgba(0,0,0,0.10);	
+	color : white;
+	list-style-type: none;
+	display: inline;
+	padding: 10px 20px;
+}
+
+li.item.selected {
+	background-color: #008dd3;
+}
+
+li.item.selected:hover {
+	background-color: #008dd3;
+}
+
+li.item:hover {	
+	background-color: #22668d;
+}
+
+.title {
+	margin: 20px 0px 10px 10px;
+	color: #cccccc;
+	font-size: 24px;
+	font-family: OpenSans-Light;
+}
+
+hr {
+	color: #666;
+	height: 1px;
+	border: 0;
+	background-color: #666;
+	margin: 0px 25px 0 10px;
+}
